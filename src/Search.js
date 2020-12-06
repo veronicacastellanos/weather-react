@@ -3,7 +3,7 @@ import React from "react";
 export default function Form() {
   return (
     <div>
-      <form action="text" id="search-form">
+      <form action="text">
         <input
           type="search"
           placeholder="Type a city.."
