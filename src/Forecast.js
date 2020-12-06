@@ -44,7 +44,7 @@ export default function Forecast() {
           </li>
         </div>
         <div class="col-2">
-          <li class="forecast">
+          <li className="forecast">
             Saturday
             <br />
             13° / 4°
