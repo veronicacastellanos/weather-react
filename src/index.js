@@ -20,7 +20,8 @@ export default function App() {
       <Temperature />
       <Stats />
       <Forecast />
-      <p className="Git">Open Source Code by Verónica Castellanos</p>
+      <p className="Git"><a  href="https://github.com/veronicacastellanos/Weather-App-Project"
+        target="_blank">Open Source Code</a> by Verónica Castellanos</p>
       </div>
  );
   }
